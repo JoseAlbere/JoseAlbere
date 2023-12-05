@@ -4,7 +4,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jose_alberes198?igshid=MzMyNGUyNmU2YQ==)
 
-![José Alberes GitHub stats](https://github-readme-stats.vercel.app/api?username=JoséAlbere&show_icons=true&theme=radical)
+![José Albere GitHub stats](https://github-readme-stats.vercel.app/api?username=José_Albere&show_icons=true&theme=radical)
 
 ## Tecnologia que eu uso no meu dia
 
